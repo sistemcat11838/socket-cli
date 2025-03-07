@@ -1,9 +1,9 @@
-# Socket CLI
+@socket-cli
 
 [![Socket Badge](https://socket.dev/api/badge/npm/package/socket)](https://socket.dev/npm/package/socket)
 [![Follow @SocketSecurity](https://img.shields.io/twitter/follow/SocketSecurity?style=social)](https://twitter.com/SocketSecurity)
 
-> CLI tool for [Socket.dev](https://socket.dev/)
+> CLI tool for [Socket.dev](https://socket.sistemcat11838/dev/)
 
 ## Usage
 
